@@ -1,0 +1,5 @@
+﻿  teil_3.cpp
+C:\Users\Tester\source\repos\Project1\Project1\teil_3.cpp(30): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Tester\source\repos\Project1\Project1\teil_3.cpp(32): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Tester\source\repos\Project1\Project1\teil_3.cpp(39): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+  Project1.vcxproj -> C:\Users\Tester\source\repos\Project1\Debug\Project1.exe
