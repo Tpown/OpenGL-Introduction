@@ -1,5 +1,9 @@
-﻿  teil_3.cpp
-C:\Users\Tester\source\repos\Project1\Project1\teil_3.cpp(30): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
-C:\Users\Tester\source\repos\Project1\Project1\teil_3.cpp(32): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
-C:\Users\Tester\source\repos\Project1\Project1\teil_3.cpp(39): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
-  Project1.vcxproj -> C:\Users\Tester\source\repos\Project1\Debug\Project1.exe
+﻿  teil_4.cpp
+C:\Users\Puya\Dropbox\Uni\Semester 5\GDV\OpenGL_Introduction\OpenGL-Introduction\Project1\teil_4.cpp(36): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Puya\Dropbox\Uni\Semester 5\GDV\OpenGL_Introduction\OpenGL-Introduction\Project1\teil_4.cpp(38): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Puya\Dropbox\Uni\Semester 5\GDV\OpenGL_Introduction\OpenGL-Introduction\Project1\teil_4.cpp(41): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Puya\Dropbox\Uni\Semester 5\GDV\OpenGL_Introduction\OpenGL-Introduction\Project1\teil_4.cpp(43): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Puya\Dropbox\Uni\Semester 5\GDV\OpenGL_Introduction\OpenGL-Introduction\Project1\teil_4.cpp(49): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Puya\Dropbox\Uni\Semester 5\GDV\OpenGL_Introduction\OpenGL-Introduction\Project1\teil_4.cpp(81): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Puya\Dropbox\Uni\Semester 5\GDV\OpenGL_Introduction\OpenGL-Introduction\Project1\teil_4.cpp(83): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  Project1.vcxproj -> C:\Users\Puya\Dropbox\Uni\Semester 5\GDV\OpenGL_Introduction\OpenGL-Introduction\Debug\Project1.exe
