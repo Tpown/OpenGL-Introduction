@@ -33,20 +33,20 @@ void RenderScene() //Zeichenfunktion
    glutWireCube(0.2);
    glPopMatrix(); //Matrix wird vom Stack geholt und gesetzt
 
-   glTranslatef(0.12, 0.12, 0.0);
+   glTranslatef(0.11, 0.11, 0.0);
    glRotatef(fRotation, 0, 0, 1);
    glTranslatef(0.2, 0.0, 0.0);
    
    glPushMatrix(); //Matrix wird auf den Stack gesichert
    glTranslatef(0.2, 0.0, 0.0);
    glScalef(2.0, 1.0, 1.0);
-   Wuerfel(0.4);
+   Wuerfel1(0.4);
    glPopMatrix(); //Matrix wird vom Stack geholt und gesetzt
 
    glPushMatrix();
    glTranslatef(1.0, 0.0, 0.0);
    glScalef(2.0, 0.5, 1.0);
-   Wuerfel(0.4);
+   Wuerfel1(0.4);
    glPopMatrix();
 
    glutSwapBuffers();
